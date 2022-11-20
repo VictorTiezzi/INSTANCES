@@ -1,4 +1,4 @@
-# INSTANCES
+# VRP INSTANCES
 
 This repo is for hold some instances for researches
 
