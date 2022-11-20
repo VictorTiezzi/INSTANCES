@@ -19,13 +19,13 @@ The subdirectory INSTANCES contains the following benchmark instances:
 	https://doi.org/10.1016/S0305-0548(03)00163-1
 
 	RIECK
-		C1 (100 instances)
-		C2 (8 instances)
-		C3 (25 instances)
-		C4 (12 instances)
-		C5 (18 instances)
-		C6 (40 instances)
-		C7 (2 instances)
+		R1 (100 instances)
+		R2 (8 instances)
+		R3 (25 instances)
+		R4 (12 instances)
+		R5 (18 instances)
+		R6 (40 instances)
+		R7 (2 instances)
 	Source:
 	Rieck, J., Zimmermann, J.:
 	Exact Solutions to the Symmetric and Asymmetric Vehicle Routing Problem with
